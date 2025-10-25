@@ -16,7 +16,7 @@ Setiap folder berisi latihan mandiri dan file `README.md` yang menjelaskan mater
 | 3️⃣ | [**Jobsheet 3 – HTTP Request and API**](./Jobsheet%203%20-%20HTTP%20Request%20and%20API) | Mengakses dan memproses data API eksternal menggunakan `postman-request`. |
 | 4️⃣ | [**Jobsheet 4 – JavaScript Essentials**](./Jobsheet%204%20-%20JavaScript%20Essentials) | Pendalaman sintaks dasar JavaScript yang digunakan di sisi backend Node.js. |
 | 5️⃣ | [**Jobsheet 5 – Web Server and Express.js**](./Jobsheet%205%20-%20Web%20Server%20and%20ExpressJs) | Membuat dan mengatur web server menggunakan Express.js serta templating engine Handlebars. |
-| 6️⃣ | [**Jobsheet 6 – JSON HTTP Endpoints**](./Jobsheet%206%20-%20JSON%20HTTP%20Endpoints) | Mengembangkan endpoint dinamis berbasis JSON dan mengintegrasikannya dengan API cuaca. |
+| 6️⃣ | [**Jobsheet 6 – JSON HTTP Endpoints**](./Jobsheet%206%20-%20%20JSON%20HTTP%20Endpoints) | Mengembangkan endpoint dinamis berbasis JSON dan mengintegrasikannya dengan API cuaca. |
 
 ---
 ## 🧩 Struktur Direktori
