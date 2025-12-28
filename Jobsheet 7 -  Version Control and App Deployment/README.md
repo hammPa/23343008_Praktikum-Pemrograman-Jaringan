@@ -1,4 +1,4 @@
-# Jobsheet 6 – JSON HTTP Endpoints
+# Jobsheet 7 – Version Control and App Deployment
 
 Dari jobsheet ini, saya memperoleh pengalaman langsung dalam mengelola source code aplikasi Node.js menggunakan Version Control System (Git) serta melakukan deployment aplikasi ke lingkungan produksi. Materi yang dipelajari mencakup penggunaan Git untuk melacak perubahan kode, pembuatan repository di GitHub, pengelolaan commit, serta konfigurasi file .gitignore untuk mengatur file yang tidak perlu dilacak.
 
