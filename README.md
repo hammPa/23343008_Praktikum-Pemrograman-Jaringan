@@ -17,7 +17,7 @@ Setiap folder berisi latihan mandiri dan file `README.md` yang menjelaskan mater
 | 4️ | [**Jobsheet 4 – JavaScript Essentials**](./Jobsheet%204%20-%20JavaScript%20Essentials) | Pendalaman sintaks dasar JavaScript yang digunakan di sisi backend Node.js. |
 | 5️ | [**Jobsheet 5 – Web Server and Express.js**](./Jobsheet%205%20-%20Web%20Server%20and%20ExpressJs) | Membuat dan mengatur web server menggunakan Express.js serta templating engine Handlebars. |
 | 6️ | [**Jobsheet 6 – JSON HTTP Endpoints**](./Jobsheet%206%20-%20%20JSON%20HTTP%20Endpoints) | Mengembangkan endpoint dinamis berbasis JSON dan mengintegrasikannya dengan API cuaca. |
-| 7 | [**Jobsheet 7 – Version Control and App Deployment**](./Jobsheet%207%20-%20%20Version%20Control%20and%20App%20Deployment) | Mengembangkan endpoint dinamis berbasis JSON dan mengintegrasikannya dengan API cuaca. |
+| 7 | [**Jobsheet 7 – Version Control and App Deployment**](./Jobsheet%207%20-%20%20Version%20Control%20and%20App%20Deployment) | Mempelajari konsep version control menggunakan Git dan GitHub, serta melakukan deployment aplikasi Node.js ke cloud menggunakan platform Vercel. |
 ---
 ## 🧩 Struktur Direktori
 Pemrograman-Berbasis-Jaringan-NodeJS<br>
