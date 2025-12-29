@@ -5,6 +5,26 @@
 Repositori ini berisi kumpulan **Jobsheet praktikum Node.js** yang mencakup pembelajaran mulai dari konsep dasar hingga pembuatan web server dan integrasi API.  
 Setiap folder berisi latihan mandiri dan file `README.md` yang menjelaskan materi, hasil pembelajaran dari masing-masing jobsheet disimpan dalam folder screenshoot atau ss.
 
+## Biodata Diri
+```
+Nama           : M. Ilham
+
+NIM            : 23343008
+
+Program Studi  : Informatika
+```
+
+---
+
+## Informasi Mata Kuliah
+```
+Dosen: Randi Proska Sandra, M.Sc
+
+Kode Kelas: INF1.62.5010
+
+Semester: 5
+```
+
 ---
 
 ## 📂 Daftar Jobsheet
@@ -20,7 +40,7 @@ Setiap folder berisi latihan mandiri dan file `README.md` yang menjelaskan mater
 | 7 | [**Jobsheet 7 – Version Control and App Deployment**](./Jobsheet%207%20-%20%20Version%20Control%20and%20App%20Deployment) | Mempelajari konsep version control menggunakan Git dan GitHub, serta melakukan deployment aplikasi Node.js ke cloud menggunakan platform Vercel. |
 | 8 | [**Jobsheet 8 -  MongoDB and Database Server**](./Jobsheet%208%20-%20%20MongoDB%20and%20Database%20Server) | Implementasi database NoSQL menggunakan MongoDB dan penerapan operasi CRUD pada aplikasi Node.js. |
 | 9 | [**Jobsheet 9 -  Socket Programming**](./Jobsheet%209%20-%20%20Socket%20Programming) | Implementasi komunikasi real-time berbasis WebSocket menggunakan Socket.IO. |
----
+
 ## 🧩 Struktur Direktori
 Pemrograman-Berbasis-Jaringan-NodeJS<br>
 ┣ 📁 Jobsheet 1 - Pengantar NodeJS<br>
