@@ -18,7 +18,8 @@ Setiap folder berisi latihan mandiri dan file `README.md` yang menjelaskan mater
 | 5️ | [**Jobsheet 5 – Web Server and Express.js**](./Jobsheet%205%20-%20Web%20Server%20and%20ExpressJs) | Membuat dan mengatur web server menggunakan Express.js serta templating engine Handlebars. |
 | 6️ | [**Jobsheet 6 – JSON HTTP Endpoints**](./Jobsheet%206%20-%20%20JSON%20HTTP%20Endpoints) | Mengembangkan endpoint dinamis berbasis JSON dan mengintegrasikannya dengan API cuaca. |
 | 7 | [**Jobsheet 7 – Version Control and App Deployment**](./Jobsheet%207%20-%20%20Version%20Control%20and%20App%20Deployment) | Mempelajari konsep version control menggunakan Git dan GitHub, serta melakukan deployment aplikasi Node.js ke cloud menggunakan platform Vercel. |
-| 7 | [**Jobsheet 8 -  MongoDB and Database Server**](./Jobsheet%208%20-%20%20MongoDB%20and%20Database%20Server) | Implementasi database NoSQL menggunakan MongoDB dan penerapan operasi CRUD pada aplikasi Node.js. |
+| 8 | [**Jobsheet 8 -  MongoDB and Database Server**](./Jobsheet%208%20-%20%20MongoDB%20and%20Database%20Server) | Implementasi database NoSQL menggunakan MongoDB dan penerapan operasi CRUD pada aplikasi Node.js. |
+| 9 | [**Jobsheet 9 -  Socket Programming**](./Jobsheet%209%20-%20%20Socket%20Programming) | Implementasi komunikasi real-time berbasis WebSocket menggunakan Socket.IO. |
 ---
 ## 🧩 Struktur Direktori
 Pemrograman-Berbasis-Jaringan-NodeJS<br>
@@ -30,6 +31,7 @@ Pemrograman-Berbasis-Jaringan-NodeJS<br>
 ┣ 📁 Jobsheet 6 - JSON HTTP Endpoints<br>
 ┣ 📁 Jobsheet 7 - Version Control and App Deployment<br>
 ┣ 📁 Jobsheet 8 - MongoDB and Database Server<br>
+┣ 📁 Jobsheet 9 -  Socket Programming<br>
 ┗ 📄 README.md
 
 ---
